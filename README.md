@@ -5,7 +5,7 @@ Real Time Weather app from masyntech (youtube channel),
 Source: <b>Node.js Project For Beginners: NodeJS Weather App</b>
 https://www.youtube.com/watch?v=VRzl-nCTsaU&t=21s
 
-Project Setup
+<b><u>Project Setup</u></b>
 
 To file folder
 1. Download Repository
