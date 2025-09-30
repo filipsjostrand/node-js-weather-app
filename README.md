@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=VRzl-nCTsaU&t=21s
 5. Open the project in the web browser: "http://localhost:3000/"
 
 _ _ _
+_ _ _
 
 From masyntech (youtube channel):
 
