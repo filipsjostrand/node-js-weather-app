@@ -1,3 +1,29 @@
+# 🚀 Real Time weather app (From masyntech)
+
+Real Time Weather app from masyntech (youtube channel), 
+
+Source: Node.js Project For Beginners: NodeJS Weather App
+https://www.youtube.com/watch?v=VRzl-nCTsaU&t=21s
+
+Project Setup
+
+To file folder
+1. Download Repository
+
+In project terminal:
+2. Make sure that yarn is installed: "yarn --v"
+3. Preferebly install nodemon locally to update project changes: "npm install --save-dev nodemon"
+4. Start the server in the project map: "yarn server"
+
+In the web browser
+5. Open the project in the web browser: "http://localhost:3000/"
+
+_ _ _
+
+From masyntech (youtube channel):
+
+Default ReadMe:
+
 # 🚀 Fullstack Web Development With Projects
 
 Welcome to the Fullstack Web Development with MERN repository! Here you'll find a series of YouTube tutorials and projects that will teach you how to build fullstack web applications using the latest technologies, including HTML, CSS, JavaScript, Node.js, Express, Mongoose, and MongoDB.
