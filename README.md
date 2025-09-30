@@ -7,15 +7,15 @@ https://www.youtube.com/watch?v=VRzl-nCTsaU&t=21s
 
 ## <b>Project Setup</b>
 
-<b>To file folder</b>
+<b>To file folder</b><br>
 1. Download Repository
 
-<b>In project terminal:</b>
+<b>In project terminal:</b><br>
 2. Make sure that yarn is installed: "yarn --v"
 3. Preferebly install nodemon locally to update project changes: "npm install --save-dev nodemon"
 4. Start the server in the project map: "yarn server"
 
-<b>In the web browser</b>
+<b>In the web browser</b><br>
 5. Open the project in the web browser: "http://localhost:3000/"
 
 _ _ _
