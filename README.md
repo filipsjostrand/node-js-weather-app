@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=VRzl-nCTsaU&t=21s
 
 ## <b>Project Setup</b>
 
-<b>To file folder</b><br>
+<b>To file folder</b>
 1. Download Repository
 
 <b>In project terminal:</b><br>
